@@ -1,0 +1,11 @@
+{
+  "name": "nuance-dark-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Subtle earthy colors, easy on the eyes. Goes with nuance-dark-ui.",
+  "repository": "https://github.com/atom/nuance-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
